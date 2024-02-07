@@ -1,4 +1,6 @@
-# Website
+# QuaBot Wiki
+
+Feel free to contribute to QuaBot's Wiki pages! Just make a Pull Request and we will merge your content.
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
