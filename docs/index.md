@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # The QuaBot Wiki
 
-Welcome to the quaBot wiki blah blah blah.
+Welcome to the QuaBot wiki, this wiki is created to help you use QuaBot.
 
-explain the bot quickly and show the different pages
+QuaBot is the perfect Discord bot, it has advanced modules ranging from giveaways, reaction roles, logging to applications and so much more.
+
+and show the different pages

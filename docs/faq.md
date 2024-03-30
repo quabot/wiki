@@ -4,4 +4,4 @@ sidebar_position: 5
 
 # FAQ
 
-Welcome to the quaBot wiki blah blah blah.
+Still didn't get an answer to your question? Feel free to join our [Discord server](https://discord.quabot.net) for further assistance.
