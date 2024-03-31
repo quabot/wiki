@@ -1,22 +1,16 @@
 # Message Sender
 
-<!-- - How does the module work -->
-
 With the message sender you can easily let the bot send a message to a channel in your server.
-
-<!-- - What does it do -->
-<!-- - How to use it with Setup on Dashboard -->
 
 The message sender is very easy to use.
 
-1. Select the channel where you'd like to send a message to.
+1. Select the channel where you'd like to send a message to.<br/>
    ![Picture of the channel selection](./img/MessageSender-Channel.png)
-2. Click on `Edit in Embed Builder`.
+2. Click on `Edit in Embed Builder`.<br/>
    ![Picture of Edit in Embed Builder](./img/MessageSender-EditEmbed.png)
-3. Enter your message.
+3. Enter your message, to learn more about the `Embed Builder` visit this wiki's [Embed Builder page](/docs/embed-builder).<br/>
    ![Picture of message editing](./img/MessageSender-EnterMsg.png)
-4. Click on `Send Message`.
+4. Click on `Send message`.<br/>
+   ![Picture of send button](./img/MessageSender-Send.png)
 
-- Explain the different settings
-- Commands
-- Troubleshooting
+Congratulations! You now have a basic understanding of the Message Sender.

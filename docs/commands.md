@@ -4,9 +4,9 @@ sidebar_position: 6
 
 # Commands
 
-Below is an overview of every (sub)command, what it does and how to use it!
+An overview of every (sub)command, what it does and how to use it!
 
-## Contents
+## Content
 
 - [All Commands](#all-commands)
 - [Fun Commands](#fun-commands)
@@ -50,7 +50,7 @@ The 8ball command answers a question that you ask it about the future, you're th
 
 <!-- ! how to change size? -->
 
-![Response when you use the 8ball command.](./img/8ball.png)
+![Response when you use the 8ball command.](./img/Commands-8ball.png)
 
 An overview of all the options that the command uses.
 
