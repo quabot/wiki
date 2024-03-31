@@ -29,14 +29,23 @@ An overview of all (sub)commands.
 - **Description:** What does the (sub)command do? **Example:** `Create a channel.`
 - **Options:** The options that the command accepts (optional and required). **Example:** `name, nsfw` -->
 
-| Command         | Subcommand        | Description                                | Options  |
-| --------------- | ----------------- | ------------------------------------------ | -------- |
-| [8ball](#8ball) |                   | Ask a question to the 8ball.               | question |
-| [about](#about) |                   | View some information about QuaBot.        |          |
-| [afk](#afk)     | [help](#help)     | Get some information about the afk module. |          |
-| [afk](#afk)     | [list](#list)     | See a list of AFK users in the server.     |          |
-| [afk](#afk)     | [status](#status) | Set your AFK status.                       |          |
-| [afk](#afk)     | [toggle](#toggle) | Set your AFK to enabled/disabled.          | enabled  |
+<!-- !Not all hyperlinks are correct -->
+
+| Command                       | Subcommand        | Description                                         | Options                                         |
+| ----------------------------- | ----------------- | --------------------------------------------------- | ----------------------------------------------- |
+| [8ball](#8ball)               |                   | Ask a question to the 8ball.                        | question                                        |
+| [about](#about)               |                   | View some information about QuaBot.                 |                                                 |
+| [afk](#afk)                   | [help](#help)     | Get some information about the afk module.          |                                                 |
+| [afk](#afk)                   | [list](#list)     | See a list of AFK users in the server.              |                                                 |
+| [afk](#afk)                   | [status](#status) | Set your AFK status.                                |                                                 |
+| [afk](#afk)                   | [toggle](#toggle) | Set your AFK to enabled/disabled.                   | enabled                                         |
+| [applications](#applications) | [apply](#apply)   | Apply for an application.                           |                                                 |
+| [applications](#applications) | [help](#help)     | Get some information about the applications module. |                                                 |
+| [applications](#applications) | [list](#list)     | See a list of forms in the server.                  |                                                 |
+| [applications](#applications) | [manage](#manage) | Manage server forms.                                |                                                 |
+| [avatar](#avatar)             | [server](#server) | Get the icon of the server.                         |                                                 |
+| [avatar](#avatar)             | [user](#user)     | Get a user's avatar.                                | user                                            |
+| [ban](#ban)                   |                   | Ban a user.                                         | delete_messages, private, reason, user, user-id |
 
 ## Fun Commands
 
