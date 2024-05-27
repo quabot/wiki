@@ -8,12 +8,14 @@ A detailed explanation of the `Embed Buider`.
 
 The `Embed Builder` is used in a lot of modules, so it is very important that you have a good understanding of how it works.
 
-## Content
+## Contents
 
-- [The Basics](#the-basics)
-- [Advanced Usage](#advanced-usage)
-  - [Variables](#variables)
-- [FAQ](#faq)
+- [Embed Builder](#embed-builder)
+  - [Contents](#contents)
+  - [The basics](#the-basics)
+  - [Advanced Usage](#advanced-usage)
+    - [Variables](#variables)
+  - [FAQ](#faq)
 
 ## The basics
 
@@ -78,3 +80,6 @@ There also are `dynamic` variables, these variables' data can directly be change
 
 - **Question:** Why is the data that replaces my variables in the `Preview` window incorrect?<br/>
   **Answer:** A lot of the variables will be replaced with placeholder data in the `Preview` window, but don't worry! The real message will have the right data.
+
+- **Question:** The variable preview isn't showing up?<br />
+   **Answer:** The variable preview is not always visible, so it will correctly show up on the final message, just not in the preview.
