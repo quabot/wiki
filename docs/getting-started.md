@@ -6,7 +6,7 @@ sidebar_position: 3
 
 A guide for the dashboard.
 
-1. To configure QuaBot you'll have to use the [dashboard](quabot.net/dashboard).
+1. To configure QuaBot you'll have to use the [dashboard](https://quabot.net/dashboard).
 2. When you click the link, you'll be greeted with all of the servers where you have the `Manage Server` permission in.<br/>
    ![Picture of the main dashboard page](./img/GettingStarted-Servers.png)
 3. Choose the server where you'd like to use QuaBot in.
@@ -34,4 +34,4 @@ A guide for the dashboard.
 15. On this page you can see all changes to QuaBot that have been made in this server.<br/>
     ![Picture of logs page](./img/GettingStarted-Logs.png)
 
-Congratulations! You now have a good understanding of QuaBot's dashboard, if you need help you can always take a look at the [FAQ](/docs/faq).
+Congratulations! You now have a good understanding of QuaBot's dashboard, if you need help you can always take a look at the [FAQ](https://quabot.net/faq).
