@@ -91,7 +91,7 @@ Notify the server when a user leaves, with a custom farewell message.
    - For a card message, click `Edit in Card Builder`.  
    
    More details on using the Embed Builder are on the [Embed Builder page](/docs/embed-builder).  
-   A quick start guide for the Welcome Card Builder is available [here](/docs/welcome-card-builder-quickstart).  
+   A quick start guide for the Welcome Card Builder is available [here](/docs/welcome/welcome-card-builder).  
    
    ![Embed Builder interface](../img/Welcome-EditEmbedBuilderLeave.png)
    ![Card Builder interface](../img/Welcome-EditCardBuilderLeave.png)
