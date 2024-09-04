@@ -20,7 +20,7 @@ Welcome new members to your server with a custom message when they join.
    - For a card message, click `Edit in Card Builder`.  
    
    More information on using the Embed Builder can be found on the [Embed Builder page](/docs/embed-builder).  
-   A quick start guide for the Welcome Card Builder is available [here](/docs/welcome-card-builder-quickstart).  
+   A quick start guide for the Welcome Card Builder is available [here](./docs/modules/welcome/welcome-card-builder).  
    
    ![Embed Builder interface](../img/Welcome-EditEmbedBuilder.png)
    ![Card Builder interface](../img/Welcome-EditCardBuilder.png)
