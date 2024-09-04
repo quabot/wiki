@@ -9,11 +9,11 @@ Welcome new members to your server with a custom message when they join.
 
 1. **Select the Welcome Channel**  
    Choose the channel where all welcome messages will be sent.  
-   ![Channel selection interface](./img/Welcome-JoinChannel.png)
+   ![Channel selection interface](../img/Welcome-JoinChannel.png)
 
 2. **Choose Message Type**  
    Decide whether you want to send the welcome message as a card or an embed.  
-   ![Choosing between card or embed message](./img/Welcome-CardOrEmbed.png)
+   ![Choosing between card or embed message](../img/Welcome-CardOrEmbed.png)
 
 3. **Customize the Message**  
    - For an embed message, click `Edit in Embed Builder`.
@@ -22,8 +22,8 @@ Welcome new members to your server with a custom message when they join.
    More information on using the Embed Builder can be found on the [Embed Builder page](/docs/embed-builder).  
    A quick start guide for the Welcome Card Builder is available [here](/docs/welcome-card-builder-quickstart).  
    
-   ![Embed Builder interface](./img/Welcome-EditEmbedBuilder.png)
-   ![Card Builder interface](./img/Welcome-EditCardBuilder.png)
+   ![Embed Builder interface](../img/Welcome-EditEmbedBuilder.png)
+   ![Card Builder interface](../img/Welcome-EditCardBuilder.png)
 
 :::note
 Remember to save your changes.
@@ -44,7 +44,7 @@ Automatically assign roles to new members upon joining.
 
    > Click `Add Role` to assign additional roles to new members.
 
-   ![Join Roles page interface](./img/Welcome-JoinRoles.png)
+   ![Join Roles page interface](../img/Welcome-JoinRoles.png)
 
 -------------
 
@@ -53,11 +53,11 @@ Send a direct message to new members when they join the server.
 
 1. **Enable Join DMs**  
    Toggle to send a DM to new members when they join.  
-   ![Join DM enable toggle](./img/Welcome-JoinDMEnable.png)
+   ![Join DM enable toggle](../img/Welcome-JoinDMEnable.png)
 
 2. **Choose Message Type**  
    Decide whether the Join DM should be a card or an embed.  
-   ![Choosing between card or embed DM](./img/Welcome-CardOrEmbedDM.png)
+   ![Choosing between card or embed DM](../img/Welcome-CardOrEmbedDM.png)
 
 3. **Customize the Message**  
    - For an embed message, click `Edit in Embed Builder`.
@@ -66,8 +66,8 @@ Send a direct message to new members when they join the server.
    More details on using the Embed Builder are on the [Embed Builder page](/docs/embed-builder).  
    A quick start guide for the Welcome Card Builder is available [here](/docs/welcome-card-builder-quickstart).  
    
-   ![Embed Builder interface](./img/Welcome-EditEmbedBuilder.png)
-   ![Card Builder interface](./img/Welcome-EditCardBuilder.png)
+   ![Embed Builder interface](../img/Welcome-EditEmbedBuilder.png)
+   ![Card Builder interface](../img/Welcome-EditCardBuilder.png)
 
 :::note
 Remember to save your changes.
@@ -80,11 +80,11 @@ Notify the server when a user leaves, with a custom farewell message.
 
 1. **Select the Leave Channel**  
    Choose the channel where all leave messages will be sent.  
-   ![Channel selection interface](./img/Welcome-LeaveChannel.png)
+   ![Channel selection interface](../img/Welcome-LeaveChannel.png)
 
 2. **Choose Message Type**  
    Decide whether the leave message should be a card or an embed.  
-   ![Choosing between card or embed leave message](./img/Welcome-CardOrEmbedLeave.png)
+   ![Choosing between card or embed leave message](../img/Welcome-CardOrEmbedLeave.png)
 
 3. **Customize the Message**  
    - For an embed message, click `Edit in Embed Builder`.
@@ -93,8 +93,8 @@ Notify the server when a user leaves, with a custom farewell message.
    More details on using the Embed Builder are on the [Embed Builder page](/docs/embed-builder).  
    A quick start guide for the Welcome Card Builder is available [here](/docs/welcome-card-builder-quickstart).  
    
-   ![Embed Builder interface](./img/Welcome-EditEmbedBuilderLeave.png)
-   ![Card Builder interface](./img/Welcome-EditCardBuilderLeave.png)
+   ![Embed Builder interface](../img/Welcome-EditEmbedBuilderLeave.png)
+   ![Card Builder interface](../img/Welcome-EditCardBuilderLeave.png)
 
 :::note
 Remember to save your changes.

@@ -4,10 +4,17 @@ sidebar_position: 6
 
 # Commands
 
+:::info
+You can help expand and improve this wiki! You can expand on it: [view the repository](https://github.com/quabot/wiki).
+:::
+
 ## All Commands
 
 An overview of all (sub)commands.
 
+:::note
+This list of commands is incomplete. You can find a full list of commands by using the `help` command.
+:::
 <!-- !Not all hyperlinks are correct -->
 
 | Command                       | Subcommand                  | Description                                           | Options                                         |
@@ -25,6 +32,10 @@ An overview of all (sub)commands.
 | [avatar](#avatar)             | [server](#server)           | Get the icon of the server.                           |                                                 |
 | [avatar](#avatar)             | [user](#user)               | Get a user's avatar.                                  | user                                            |
 | [ban](#ban)                   |                             | Ban a user.                                           | delete_messages, private, reason, user, user-id |
+| [birthdays](#birthdays)       | [next](#next)               | View the next 10 birthdays in your server.            |                                                 |
+| [birthdays](#birthdays)       | [remove](#remove)           | Remove your birthday.                                 |                                                 |
+| [birthdays](#birthdays)       | [set](#set)                 | Set your birthday. DD/MM/YYYY                         | date                                            |
+| [birthdays](#birthdays)       | [view](#view)               | View someone's birthday.                              | user                                            |
 | [channel](#channel)           | [create](#create)           | Create a channel.                                     | name, nsfw                                      |
 | [channel](#channel)           | [delete](#delete)           | Delete a channel.                                     | channel                                         |
 | [channel](#channel)           | [edit](#edit)               | Edit a channel.                                       | channel, name                                   |
@@ -40,6 +51,7 @@ An overview of all (sub)commands.
 | [help](#help)                 |                             | Get a list of QuaBot commands and their descriptions. | module                                          |
 | [info](#info)                 | [bot](#bot)                 | Get information about QuaBot.                         |                                                 |
 | [info](#info)                 | [channel](#channel)         | Get information about a channel in the server.        | channel                                         |
+| [info](#info)                 | [member](#member)           | Get server-specific information about a server member.| member                                          |
 | [info](#info)                 | [role](#role)               | Get information about a role.                         | role                                            |
 | [info](#info)                 | [server](#server)           | Get information about the server.                     |                                                 |
 | [info](#info)                 | [user](#user)               | Get information about a user (or yourself).           | user                                            |
@@ -63,3 +75,8 @@ An overview of all (sub)commands.
 | [punishments](#punishments)   | [manage](#manage)           | Manage punishments, delete and deactivate             | id, type, user                                  |
 | [punishments](#punishments)   | [view](#view)               | View punishments. (With filters)                      | id, staff-member, type, user, user-id           |
 | [quiz](#quiz)                 |                             | Play a multiple choice quiz.                          |                                                 |
+| [reactionroles](#reactionroles)|                            | Manage reactionroles.                                 |                                                 |
+| [removetimeout](#removetimeout)|                            | Remove the timeout from a user.                       | user                                            |
+| [report](#report)             | [message](#message)         | Report a message to the server staff.                 | message-url                                     |
+| [report](#report)             | [user](#user)               | Report a user to the server staff.                    | user                                            |
+
