@@ -1,0 +1,19 @@
+name: ⚠️ Deploy wiki to STABLE
+
+on:
+  workflow_dispatch
+
+jobs:
+  build:
+    runs-on: self-hosted
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Build the new Docker image
+      run: docker build . --file Dockerfile --tag quabot/wiki:$(date +%s)
+    - name: Stopping existing wiki container
+      run: docker stop quabot-wiki || echo
+    - name: Removing existing wiki container
+      run: docker rm quabot-wiki || echo
+    - name: Running the container from this image
+      run: docker run --restart=always --name quabot-wiki -p 9999:9999 -d $(docker images --filter "reference=quabot/wiki" | awk '{print $3}' | awk 'NR==2')
