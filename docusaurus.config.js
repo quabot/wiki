@@ -68,7 +68,7 @@ const config = {
       navbar: {
         title: 'QuaBot Wiki',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'quabot',
           src: 'img/logo.png',
         },
         items: [

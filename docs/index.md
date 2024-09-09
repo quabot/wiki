@@ -18,6 +18,10 @@ After selecting the server, you will be taken to the dashboard where you can con
 
 ## Required Permissions
 
+:::info Using Administrator Permissions
+You can use the Administrator permission. This will make sure QuaBot works, but it is not required, and you should not give Administrator to bots/users you do not trust.
+:::
+
 QuaBot requires the following permissions to work properly:
 
 | Permission                                | Reason                                                                                                 |
@@ -40,6 +44,10 @@ QuaBot requires the following permissions to work properly:
 | `Adminstrator` (Optional)                 | Gives all permissions, makes sure QuaBot always works.                                                 |
 
 ## QuaBot Role Position
+
+:::caution Warning
+Please make sure that the QuaBot role is above all roles it should manage. If the role is below for example the members role, it cannot give this role to members. (More info below)
+:::
 
 QuaBot requires the `QuaBot` role to be above all roles it should manage. This is to ensure that QuaBot can manage the roles properly. If the role is below for example the members role, it cannot give this role to members. You can move the role by dragging it in the role list in the server settings. If you're having trouble with this, you can always ask for help in our [support server](https://discord.quabot.net).
 
