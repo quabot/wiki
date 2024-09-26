@@ -20,7 +20,7 @@ After you reach a certain level, the required XP to level up increases. The foll
 | 7     | 1510              | 300                          |
 | 8     | 1830              | 320                          |
 | 9     | 2170              | 340                          |
-| 10    | 2530             | 360                         |
+| 10    | 2530              | 360                          |
 | 11    | 2910              | 380                          |
 | 12    | 3310              | 400                          |
 | 13    | 3730              | 420                          |
