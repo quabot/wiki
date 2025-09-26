@@ -4,6 +4,20 @@ sidebar_position: 1
 
 # The QuaBot Wiki
 
+:::danger
+## QuaBot, and therefore the wiki is in alpha
+We are still working on features, all features listed on the dashboard are completed or nearing completion so feel free to write about them.
+
+**STAFF NOTES:**
+QuaBot v8 has to be communicated to the users as QuaBot v2. Internal code references and /info will show v8 but for the user it's v2. We do this to avoid confusion with the old QuaBot and keep clear separation.
+
+**ABOUT IMAGES:**
+All images need to be replaced since most of the dashboard ui has changed slightly or significantly. Please take new screenshots when you edit a page.
+
+**TEST FEATURES:**
+Test features before you document them. Some features may have changed or not work as expected. If you need info about a limit, contact a dev or check the code yourself.
+:::
+
 Welcome to the QuaBot wiki, this wiki is created to help you use QuaBot.
 
 QuaBot is the perfect Discord bot, it has advanced modules ranging from giveaways, reaction roles, logging to applications and so much more.
