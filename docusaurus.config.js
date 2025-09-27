@@ -34,18 +34,20 @@ const config = {
 
   
   presets: [
-    [
-      'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          editUrl:
-            'https://github.com/quabot/wiki',
-        },
-      }),
-    ],
+  [
+    'classic',
+    /** @type {import('@docusaurus/preset-classic').Options} */
+    ({
+      docs: {
+        sidebarPath: require.resolve('./sidebars.js'),
+        editUrl: 'https://github.com/quabot/wiki',
+      },
+      theme: {
+        customCss: require.resolve('./src/css/custom.css'),
+      },
+    }),
   ],
+],
 
   themes: [
     // ... Your other themes.

@@ -28,3 +28,17 @@
   --ifm-color-primary-lightest: #a5bfd3;
   --ifm-color-success-contrast-background: #7ea5c238 !important;
 }
+
+/* Remove the DocCard icon (the little document) on generated index pages */
+[class*="DocCard"] [class*="cardIcon"],
+[class*="docCard"] [class*="cardIcon"],
+[class*="cardHeader"] > [class*="cardIcon"] {
+  display: none !important;
+}
+
+/* Extra safety: if some themes render the icon as the first child in the header */
+[class*="cardHeader"] > :first-child {
+  /* The first child is the icon span in default theme */
+  display: none !important;
+}
+

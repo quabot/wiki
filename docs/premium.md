@@ -1,8 +1,22 @@
 ---
 sidebar_position: 6
+title : Premium
+hide_title: true
 ---
 
-# Premium
+<h1
+  style={{
+    background: "linear-gradient(90deg, #3d64bb, #ad635f)",
+    WebkitBackgroundClip: "text",
+    WebkitTextFillColor: "transparent",
+    display: "inline-block",
+    fontWeight: 800
+  }}
+>
+  Premium
+</h1>
+
+
 
 We recently added our small premium subscription to help support the bot's development and cover costs. Premium is completely optional. You can find our premium policy [here](https://quabot.net/policies) for subscription-related information.
 
