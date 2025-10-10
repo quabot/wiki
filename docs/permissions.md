@@ -33,6 +33,17 @@ To ensure that QuaBot functions correctly, it needs the following permissions:
 
 We highly recommend granting these permissions to ensure that QuaBot can operate smoothly and provide all its features. You can also give QuaBot Administrator permissions, which will automatically grant all the necessary permissions, although this is not required.
 
+:::caution Warning
+**Never give Administrator permissions to bots or users you do not trust.** Administrator permissions allow full control over the server, which can lead to potential security risks if misused.
+:::
+
+## QuaBot Role Position
+For QuaBot to manage roles and channels effectively, its role must be positioned above the roles it needs to manage. This is crucial for features like reaction roles, where QuaBot needs to assign or remove roles from members. You can adjust the role position in your server settings under the "Roles" section by dragging the QuaBot role to the appropriate position. You can see an example below:
+
+![Role Position](./img/Permissions_Position.png)
+
+The QuaBot role is noted as "Being managed by an Integration". Make sure it's above the roles it needs to manage or assign. It can always mention a role (if it has the permission to do so) so if you only mention roles (for example in suggestions or tickets) it does not need to be above them.
+
 
 ## Command Permissions
 QuaBot has multiple ways to grant permissions to use certain features and it might be a bit confusing.

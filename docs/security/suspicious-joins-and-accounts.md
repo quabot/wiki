@@ -1,4 +1,9 @@
 # Suspicious Joins and Accounts
+
+:::note
+This module is in beta! We're still collecting data and feedback to improve and fine-tune our detection system. Please let us know if you have any suggestions or if you think some users were falsely flagged.
+:::
+
 Whenever a new user joins your server QuaBot will run a few checks on the account to see if it might be suspicious. If it is, you will be able to see a list of suspicious joins on the Security Panel. Additionally, QuaBot will check existing accounts every hour to see if they are suspicious as well. This is useful for catching accounts that were created a while ago but only recently joined your server. This page explains this feature and how it works.
 
 
@@ -26,7 +31,7 @@ When you click "View all" you will see the full list of suspicious accounts. You
 
 
 ## What can i do with suspicious accounts?
-That's up to you! You can choose to ignore them, kick them, ban them or take any other action you see fit. QuaBot (as of right now) does not take any automatic actions on suspicious accounts, it only flags them for you to review. In the future we will add a system to automatically take actions on suspicious accounts after they reach a certain threshold, but for now we want to keep it manual to prevent any false positives from causing issues. We're still working on fine-tuning our security features and once we have enough data and feedback, we will consider adding more automation options and features. 
+That's up to you! You can choose to ignore them, kick them, ban them or take any other action you see fit. QuaBot (as of right now) does not take any automatic actions on suspicious accounts, it only flags them for you to review. In the future we will add a system to automatically take actions on suspicious accounts after they reach a certain threshold, but for now we want to keep it manual to prevent any false positives from causing issues. We're still working on fine-tuning our security features and once we have enough data and feedback, we will consider adding more automation options and features.
 
 ## Help us improve this feature!
 So please, if you have any feedback or suggestions, let us know in our [support server](https://discord.quabot.net). We appreciate your help in making QuaBot better! Also let us know if we **missed any suspicious users** or if you think some users were **falsely flagged**. This will help us improve our detection system. Thank you in advance, we really appreciate it!
