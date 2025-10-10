@@ -32,6 +32,12 @@ const config = {
     locales: ['en'],
   },
 
+  scripts: [
+    {
+      src: "/js/imageHandler.js",
+      async: false,
+    }
+  ],
   
   presets: [
   [

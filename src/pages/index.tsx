@@ -5,7 +5,6 @@ const Home = () => {
 		window.location.href = '/docs';
 	}, []);
 
-
 	return <></>;
 }
 
